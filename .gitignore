@@ -1,0 +1,11 @@
+uploads
+media
+
+.venv
+.env
+
+
+./venv
+./env
+
+converted_files
